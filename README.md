@@ -243,7 +243,7 @@ git push origin [VERSION]
 
 分支是为了将修改记录的整体流程分叉保存。分叉后的分支不受其他分支的影响，所以在同一个数据库里可以同时进行多个修改。
 
-![分支](./image/1.png)
+![分支](https://github.com/2113ic/Git-learn-note/blob/main/Image/1.png?raw=true)
 
 当功能分支或修复 bug 分支写好后可以合并分支到主分支中。
 
@@ -292,7 +292,7 @@ git merge <branchname>
 
 ### 分支策略
 
-![分支管理策略](./image/2.jpg)
+![分支管理策略](https://github.com/2113ic/Git-learn-note/blob/main/Image/2.jpg?raw=true)
 
 
 ## 标签
